@@ -12,7 +12,7 @@ Probably the most versatile tool out there. Perfect to get started and much bett
 
 We made [a template](https://drive.google.com/open?id=1Pilm9pFgT1tHqDCs-9mUN0v71baHEgUPHDEwvjuzKbI) that you can easily copy and adapt to your own needs to keep track of the money in and out.
 
-Exemples:
+Examples:
 
 * [XR Tower and Hamlets expenses](https://docs.google.com/spreadsheets/d/1mjOjGr8ZjCCJkGfLZ5lZU342KCbS105o1oCjsu4IdkU/edit#gid=0)
 
